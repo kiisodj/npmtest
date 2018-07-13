@@ -1,20 +1,19 @@
 {
-    "name": "npmtest",
-    "version": "1.0.0",
-    "description": "A test for npm",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/simonneaves/npmtest.git"
-    },
-    "author": "Simon Neaves",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/simonneaves/npmtest/issues"
-    },
-    "homepage": "https://github.com/simonneaves/npmtest#readme"
-  }
-  
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "A test for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/simonneaves/npmtest.git"
+  },
+  "author": "Simon Neaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonneaves/npmtest/issues"
+  },
+  "homepage": "https://github.com/simonneaves/npmtest#readme"
+}
